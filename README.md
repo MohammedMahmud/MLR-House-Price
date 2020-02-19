@@ -5,5 +5,4 @@ Multiple Linear Regression ~ Finding House Price
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home."
 
-Kaggle competition
-House Prices: Predict sales prices and practice feature engineering, RFs, and gradient boosting.
+Kaggle competition:House Prices~ Predict sales prices.
